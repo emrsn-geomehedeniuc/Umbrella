@@ -2,14 +2,14 @@
 
 Application:
 
-* Umbrella(Weather app) * 
+** Umbrella(Weather app) ** 
 
-* User is able to see the weather forecast for at most 16 days for a location.
-* User is able to see the current weather forecast.
-* The user can type the address where he wants to see the weather forecast.
-* A chart with the weather for a week will be displayed.
-* User can send by email a forecast.
-* User can also enter his opinion for a day’s weather.
+>* User is able to see the weather forecast for at most 16 days for a location.
+>* User is able to see the current weather forecast.
+>* The user can type the address where he wants to see the weather forecast.
+>* A chart with the weather for a week will be displayed.
+>* User can send by email a forecast.
+>* User can also enter his opinion for a day’s weather.
 
 
 Each student should define the features for an app that will 
