@@ -2,7 +2,7 @@
 
 Application:
 
-** Umbrella(Weather app) ** 
+> **Umbrella(Weather app)** 
 
 >* User is able to see the weather forecast for at most 16 days for a location.
 >* User is able to see the current weather forecast.
